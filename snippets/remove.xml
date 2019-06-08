@@ -54,8 +54,6 @@
   <remove-project name="platform/external/chromium-webview" />
   <remove-project name="platform/external/drm_hwcomposer" />
   <remove-project name="platform/external/jemalloc" />
-  <remove-project name="platform/external/libjpeg-turbo" />
-  <remove-project name="platform/external/libpng" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/perfetto" /> 
   <remove-project name="platform/external/proguard" />
@@ -68,7 +66,6 @@
   <remove-project name="platform/external/libtextclassifier" />
   <remove-project name="platform/external/webp" />
   <remove-project name="platform/external/wpa_supplicant_8" />
-  <remove-project name="platform/external/zlib" />
   
   <!-- Framework -->
   <remove-project name="platform/frameworks/base" />
@@ -102,14 +99,6 @@
   <remove-project name="platform/hardware/qcom/sdm845/media" />
   <remove-project name="platform/hardware/qcom/sdm845/thermal" />
   <remove-project name="platform/hardware/qcom/sdm845/vr" />
-  <remove-project name="platform/hardware/qcom/msm8960" />
-  <remove-project name="platform/hardware/qcom/msm8994" />
-  <remove-project name="platform/hardware/qcom/msm8996" />
-  <remove-project name="platform/hardware/qcom/msm8998" />
-  <remove-project name="platform/hardware/qcom/msm8x09" />
-  <remove-project name="platform/hardware/qcom/msm8x26" />
-  <remove-project name="platform/hardware/qcom/msm8x27" />
-  <remove-project name="platform/hardware/qcom/msm8x84" />
   
   <!-- Packages -->
   <remove-project name="platform/packages/apps/Bluetooth" />
